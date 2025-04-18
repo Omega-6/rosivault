@@ -1,0 +1,4 @@
+id,name,third_party_level,risk_score
+vendor-001,Okta,Tier 1,0.2
+vendor-002,CrowdStrike,Tier 2,0.4
+vendor-003,CustomTool Inc,Tier 3,0.7

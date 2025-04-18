@@ -1,0 +1,4 @@
+id,name,category,vendor_id,license_cost,cost,lifecycle,integration_type,is_third_party
+tool-001,Okta SSO,Identity,vendor-001,120000,150000,Production,API,true
+tool-002,CrowdStrike Falcon,EDR,vendor-002,95000,120000,Production,Agent,true
+tool-003,Internal Audit Tool,Monitoring,vendor-003,0,50000,Beta,CLI,false

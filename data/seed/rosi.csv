@@ -1,0 +1,4 @@
+id,capability_id,value,tier,recommended_action
+rosi-001,cap-001,85.0,High,Optimize
+rosi-002,cap-002,60.0,Medium,Maintain
+rosi-003,cap-003,40.0,Low,Reassess

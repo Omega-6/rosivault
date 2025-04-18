@@ -1,0 +1,4 @@
+id,name,description
+D1,Identity and Access Management,Controls for user identification and privilege
+D2,Monitoring,Track and audit access logs and behaviors
+D3,Data Protection,Ensure confidentiality and integrity of data

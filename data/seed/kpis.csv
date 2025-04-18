@@ -1,0 +1,4 @@
+id,capability_id,name,current_value,target_value,status_color
+kpi-001,cap-001,Availability,89.0,95.0,Yellow
+kpi-002,cap-001,Mean Time to Respond,6.5,4.0,Red
+kpi-003,cap-002,User Satisfaction,92.0,90.0,Green

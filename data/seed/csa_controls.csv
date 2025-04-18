@@ -1,0 +1,5 @@
+id,name,domain,category
+CTRL-001,Access Control,Identity and Access Management,Preventive
+CTRL-002,Logging and Monitoring,Monitoring,Detective
+CTRL-003,Data Encryption,Data Protection,Preventive
+CTRL-004,Incident Response Planning,Incident Management,Corrective

@@ -1,0 +1,2 @@
+id,name,esf_domain_id,maturity_level,risk_appetite,total_cost,business_risk,regulatory_risk,operational_risk,reputational_risk,description
+cap-001,Privileged Access Management,domain-01,Advanced,Low,300000,0.7,0.5,0.4,0.6,Controls high-privilege user access

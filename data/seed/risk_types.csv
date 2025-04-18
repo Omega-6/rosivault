@@ -1,0 +1,4 @@
+id,name,category,impact_level
+r1,Regulatory Risk,Compliance,High
+r2,Operational Risk,Business,Medium
+r3,Vendor Risk,Third-party,High
